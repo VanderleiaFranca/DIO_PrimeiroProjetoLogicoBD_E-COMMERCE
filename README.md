@@ -28,7 +28,7 @@ Aplicar o mapeamento para o  cenário: “Refine o modelo apresentado de E-comme
   - Entrega: Possui status e código de rastreio.
 
 Algumas das perguntas que podes fazer para embasar as queries SQL:
-  - Quantos pedidos foram feitos por cada cliente?
-  - Algum vendedor também é fornecedor?
-  - Relação de produtos fornecedores e estoques.
-  - Relação de nomes dos fornecedores e nomes dos produtos.
+  - Listar todos os clientes
+  - Listar todos os produtos e seus preços.
+  - Listar fornecedores e seus produtos.
+  - Listar quantos pedidos foram feitos por cliente.
